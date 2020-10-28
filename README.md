@@ -15,3 +15,9 @@ procedures.
 8. doit.
 
 you did it. that is all. Thx!!!.
+<BR><BR>
+addendum:<BR>
+you could make smallworld with kendrick-smallworld-roassal2.st on this repo.<BR>
+ ![alt text](https://github.com/cobwebkanamachi/pharo-Kendrick-RandomNetwork/blob/main/indeedsmallworld.png?raw=true "Demo Screen")
+
+
